@@ -1,0 +1,46 @@
+body {
+    margin: 0;
+}
+
+.container {
+    margin: 0 auto;
+    width: 100%;
+    background-color: aqua;
+    color: olivedrab;
+    font-family: sans-serif;
+    text-align: center;
+    justify-content: center;
+}
+
+.boxOne {
+    width: 90%;
+    height: 50px;
+    background-color: rgb(182, 170, 170);
+    margin: 20px;
+    padding: 10px;
+}
+
+.boxTwo {
+    width: 97%;
+    height: 270px;
+}
+
+.box21 {
+    float: left;
+    width: 20%;
+    background-color: rgb(182, 170, 170);
+    box-sizing: border-box;
+    padding: 10px;
+    margin-left: 20px;
+    height: 100%;
+}
+
+.box22 {
+    float: left;
+    width: 72.75%;
+    margin-left: 20px;
+    background-color: rgb(182, 170, 170);
+    box-sizing: border-box;
+    padding: 10px;
+    height: 100%;
+}

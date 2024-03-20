@@ -1,0 +1,33 @@
+body {
+    margin: 0;
+}
+
+.container{
+    width: 30%;
+    margin: 0 auto;
+    text-align: center;
+    font-family: sans-serif;
+    color: rgb(175, 123, 27);
+    background-color: coral;
+    padding: 10px;
+}
+
+.OneBox{
+    background-color: lightyellow;
+    border: 1px solid gray;
+    padding: 50px;
+    font-size: 15px;
+    text-align: center;
+    font-family: sans-serif;
+    margin: 20px;
+}
+
+.TwoBox{
+    background-color: rgb(93, 28, 154);
+    border: 1px solid rgb(47, 11, 80);
+    padding: 50px;
+    font-size: 15px;
+    text-align: center;
+    font-family: sans-serif;
+    margin: 20px;
+}
